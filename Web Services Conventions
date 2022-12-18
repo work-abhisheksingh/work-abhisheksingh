@@ -1,0 +1,5 @@
+Get - Read - Return all document in JSON.
+Post - Add  - Add new object into the dbs
+Put - update - Update data in the dbs
+Delete - Delete - Delete the object from the dbs
+Patch - Partial Update - Update the data in the dbs
