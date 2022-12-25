@@ -1,45 +1,37 @@
 create database mis;
-
 use mis;
-
-
-create table Director(
+create table Directors(
     Id int not null AUTO_INCREMENT primary key,
     Password varchar(20),
     Description varchar(500),
     Email varchar(50));
-
-
-create table Faculty(
-     Id int not null AUTO_INCREMENT primary key,
-     Password not null varchar(20),
-     Name not null varchar(50),
-     Description varchar(500),
-     Experience int,
-     Expertise varchar(50),
-     Salary float,
-     ContactNumber varchar(10)
-     Email varchar(50));
-
-
-create table Student(
+create table Faculties
+(
+    Id int not null AUTO_INCREMENT primary key,
+    Password varchar(20) not null,
+    Name varchar(50) not null,
+    Description varchar(500),
+    Salary double (9,2) not null,
+    ContactNumber BigInt(10),
+    Email varchar(50)
+);
+create table Students(
        Id int not null AUTO_INCREMENT primary key,
-       pwd varchar(20),
-       name varchar(50),
+       Password varchar(20),
+       Name varchar(50),
        Age int,
-       Course varchar(20),
-       Fee float,
+       Enrolled_Course varchar(20),
+       Fees double (9,2) not null,
        Admission Date,
        Address varchar(50));
-
-Create table Course(
-     Id int primary key,
+Create table Courses(
+     Id int not null primary key,
      Name varchar(50),
      Duration varchar(20),
-     Fees int,
-     Description varchar(50),
+     Fees double(9,2) not null,
+     Description varchar(500),
      StartDate Date,
-EndDate Date);
+     EndDate Date);
 INSERT INTO Directors VALUES(1, "Director1", "Doing Ordinary Things Extra Ordinarily", "director1@gmail.com");
 INSERT INTO Faculties VALUES(1, "Faculty1", "Mr. Acharya Nisarg","Having professional training experience of 10+ years in OS Technologies", 100000.00, 9874562310,"faculty1@gmail.com");
 INSERT INTO Faculties VALUES(2, "Faculty2", "Mrs. Madhura Anturkar","Having professional training experience of 20+ years in Java Technologies", 100000,9874562311,"faculty2@gmail.com");
