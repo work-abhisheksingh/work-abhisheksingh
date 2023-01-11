@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Passionate Software Engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=work-abhisheksingh&label=Profile%20views&color=0e75b6&style=flat" alt="work-abhisheksingh" /> </p>
+<p align="left"><div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> </p>
 
 - 🌱 I’m currently learning **Advance Computing and Software Development Methodologies.**
 
