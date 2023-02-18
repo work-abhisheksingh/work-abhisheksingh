@@ -1,5 +1,5 @@
 ![logo](https://github.com/work-abhisheksingh/work-abhisheksingh/blob/main/Github.jpg)
-# ![image](https://user-images.githubusercontent.com/115094053/219845355-e7c74ac5-8248-4844-8035-60111e796fe3.png) About Me:
+## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="30" height="30" /> About Me:
 🔭 I’m currently working on Advance Computing and Software Development.<br>
 
 
