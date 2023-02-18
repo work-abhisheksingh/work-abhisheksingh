@@ -1,5 +1,5 @@
 ![logo](https://github.com/work-abhisheksingh/work-abhisheksingh/blob/main/Github.jpg)
-<h1 align="center">Hi <img src="https://github.com/work-abhisheksingh/work-abhisheksingh/blob/main/Assets/emoji.gif" width="30" height="30" />, I'm **[Abhishek Singh]** (https://github.com/work-abhisheksingh)</h1><img src="https://github.com/work-abhisheksingh/work-abhisheksingh/blob/main/Assets/emoji.gif" width="30" height="30" />
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=work-abhisheksingh&label=Profile%20views&color=0e75b6&style=flat" alt="work-abhisheksingh" /> </p>
@@ -21,21 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=work-abhisheksingh&show_icons=true&locale=en" alt="work-abhisheksingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=work-abhisheksingh&" alt="work-abhisheksingh" /></p>
-
-## :fire: My Stats
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=work-abhisheksingh&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-abhisheksingh&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
-          
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=work-abhisheksingh)
-[![](https://visitcount.itsvg.in/api?id=work-abhisheksingh&icon=0&color=0)](https://visitcount.itsvg.in)
-
